@@ -20,6 +20,7 @@ def handleChoice():
     print_choice_options()
     user_choice = get_user_choice()
 
+
 def init_choices():
     global choice_hander_active
     choice_hander_active = True
