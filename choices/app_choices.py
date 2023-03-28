@@ -1,4 +1,3 @@
-# This file is for helper functions
 available_choices = []
 choice_hander_active = False
 
